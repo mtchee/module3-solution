@@ -22,20 +22,16 @@ h2 {
   border-radius: 3px;
 }
 
-#menu-style div>ul>li>a {
-  background-color: #123456;
-  color:#fff;
-}
 
 /** HEADER **/
 #header-nav {
-  background-color: #080B68;
+  background-color: white;
   border-radius: 0;
   border: 0;
 }
 
 .navbar-brand h1 { /* Restaurant name */
-  color: #fff;
+  color: black;
   font-size: 1.5em;
   font-weight: bold;
   margin-top: 0;
